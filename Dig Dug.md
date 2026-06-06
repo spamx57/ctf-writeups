@@ -19,13 +19,13 @@ Doing this will give us the following output with our flag
 ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13644
 ;; flags: qr aa; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
-;; QUESTION SECTION:
+>;; QUESTION SECTION:
 ;givemetheflag.com.		IN	A
 
-;; ANSWER SECTION:
+>;; ANSWER SECTION:
 givemetheflag.com.	0	IN	TXT	"flag{0767ccd06e79853318f25aeb08ff83e2}"
 
-;; Query time: 2 msec
+>;; Query time: 2 msec
 ;; SERVER: 10.67.184.16#53(10.67.184.16) (UDP)
 ;; WHEN: Sat Jun 06 01:10:36 UTC 2026
 ;; MSG SIZE  rcvd: 86

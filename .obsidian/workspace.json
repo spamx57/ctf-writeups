@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dig Dug"
             }
+          },
+          {
+            "id": "fd2fa77e50462f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crack the hash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crack the hash"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9010aea640a948f",
+  "active": "fd2fa77e50462f82",
   "lastOpenFiles": [
+    "Dig Dug.md",
+    "Crack the hash.md",
     "GLITCH.md",
     "Compiled.md",
-    "Dig Dug.md",
     "self/Useful sites.md",
     "README.md",
     "self/Notes & commands.md",
