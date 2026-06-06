@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self/Useful sites.md",
+                "file": "Dig Dug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful sites"
+              "title": "Dig Dug"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "b9010aea640a948f",
   "lastOpenFiles": [
+    "GLITCH.md",
+    "Compiled.md",
+    "Dig Dug.md",
+    "self/Useful sites.md",
     "README.md",
     "self/Notes & commands.md",
     "Operation Slither.md",
-    "self/Useful sites.md",
-    "Compiled.md",
-    "Dig Dug.md",
-    "GLITCH.md",
     "Lookup.md",
     "Pickle Rick.md",
     "self",
