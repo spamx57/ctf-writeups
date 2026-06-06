@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiled.md",
+                "file": "self/Useful sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compiled"
+              "title": "Useful sites"
             }
           }
         ]
@@ -185,14 +185,17 @@
   },
   "active": "b9010aea640a948f",
   "lastOpenFiles": [
-    "Dig Dug.md",
+    "README.md",
+    "self/Notes & commands.md",
     "Operation Slither.md",
-    "GLITCH.md",
+    "self/Useful sites.md",
     "Compiled.md",
-    "Notes & commands.md",
-    "Pickle Rick.md",
-    "DNS.md",
+    "Dig Dug.md",
+    "GLITCH.md",
     "Lookup.md",
+    "Pickle Rick.md",
+    "self",
+    "DNS.md",
     "img/Screenshot_2026-03-07_15_32_18(1).png",
     "img",
     "img/Screenshot_2026-03-06_19_40_03(1).png",
