@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self/Notes & commands.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes & commands"
+              "title": "README"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugged.md",
+                "file": "TryHackMe/Bugged.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -200,19 +200,20 @@
   },
   "active": "6cab7ec891273e42",
   "lastOpenFiles": [
-    "Crack the hash.md",
-    "Bugged.md",
-    "self/Notes & commands.md",
-    "Dig Dug.md",
-    "IOT.md",
-    "Compiled.md",
-    "Pickle Rick.md",
-    "Operation Slither.md",
-    "GLITCH.md",
-    "Lookup.md",
-    "self/Useful sites.md",
-    "Vectara.md",
     "README.md",
+    "self/Notes & commands.md",
+    "TryHackMe",
+    "TryHackMe/Bugged.md",
+    "TryHackMe/Crack the hash.md",
+    "TryHackMe/Dig Dug.md",
+    "IOT.md",
+    "TryHackMe/Compiled.md",
+    "TryHackMe/Pickle Rick.md",
+    "TryHackMe/Operation Slither.md",
+    "TryHackMe/GLITCH.md",
+    "TryHackMe/Lookup.md",
+    "self/Useful sites.md",
+    "TryHackMe/Vectara.md",
     "self",
     "DNS.md",
     "img/Screenshot_2026-03-07_15_32_18(1).png",
