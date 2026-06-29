@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9010aea640a948f",
+            "id": "0ade3a28d6dffb89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dig Dug.md",
+                "file": "self/Notes & commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dig Dug"
+              "title": "Notes & commands"
             }
           },
           {
-            "id": "fd2fa77e50462f82",
+            "id": "6cab7ec891273e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crack the hash.md",
+                "file": "Bugged.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crack the hash"
+              "title": "Bugged"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,18 +198,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd2fa77e50462f82",
+  "active": "6cab7ec891273e42",
   "lastOpenFiles": [
-    "Dig Dug.md",
     "Crack the hash.md",
-    "GLITCH.md",
-    "Compiled.md",
-    "self/Useful sites.md",
-    "README.md",
+    "Bugged.md",
     "self/Notes & commands.md",
-    "Operation Slither.md",
-    "Lookup.md",
+    "Dig Dug.md",
+    "IOT.md",
+    "Compiled.md",
     "Pickle Rick.md",
+    "Operation Slither.md",
+    "GLITCH.md",
+    "Lookup.md",
+    "self/Useful sites.md",
+    "Vectara.md",
+    "README.md",
     "self",
     "DNS.md",
     "img/Screenshot_2026-03-07_15_32_18(1).png",
