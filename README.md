@@ -1,4 +1,4 @@
-Writeups were made in/for obsidian
+Writeups were made in/for Obsidian
 
 Images/formatting/etc might be weird
 
